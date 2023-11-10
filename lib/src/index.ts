@@ -43,5 +43,7 @@ export { Area } from "./cartesian/components/Area";
 // Scatter
 export { Scatter, type ScatterShape } from "./cartesian/components/Scatter";
 
+export { Candlestick } from "./cartesian/components/Candlestick";
+
 // Grid and Axis
 export { CartesianAxis } from "./cartesian/components/CartesianAxis";
